@@ -2,7 +2,7 @@ import java.util.*;
 
 
 public class HousingDecisionProg {
-
+// I LOVE JAVA & 2400.
     public static void main(String[] args) {
         
         int x = 0;
