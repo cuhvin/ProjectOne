@@ -1,10 +1,10 @@
 # ProjectOne
 **Kevin Hernandez**
 
-https://github.com/cuhvin/ProjectOne
+https://github.com/cuhvin/ProjectOne/blob/main/HousingDecisionProg.java
 
-Video:
+Video: 
 
-Screencast Software: 
+Screencast Software: Zoom
 
 IDE: VS Code
