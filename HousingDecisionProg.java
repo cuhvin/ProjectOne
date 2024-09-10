@@ -83,7 +83,7 @@ public class HousingDecisionProg {
         else if (travelingDistance>50) {
              x+=2;
         }
-    
+    // end of questions.
         System.out.println("You have " + x + " points");
     scnr.close();
 
