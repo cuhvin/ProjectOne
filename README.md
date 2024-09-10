@@ -1,7 +1,7 @@
 # ProjectOne
 **Kevin Hernandez**
 
-https://github.com/cuhvin/ProjectOne/blob/main/HousingDecisionProg.java
+https://github.com/cuhvin/ProjectOne
 
 Video: 
 
